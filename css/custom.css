@@ -412,6 +412,18 @@ span.green-dot{
     font-style: italic;
     display: none;
 }
+.service-container{
+    text-align: center;
+}
+.service-container h5{
+    margin-top: 5px;
+    margin-bottom: 30px;
+
+}
+.service-container img{
+    max-width: 150px;
+    height: auto;
+}
 @media (max-width: 991px) {
     .main-search-container {
         height: 500px;
