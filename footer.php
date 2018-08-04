@@ -16,16 +16,14 @@
                 <h4>Helpful Links</h4>
                 <ul class="footer-links">
                     <li><a href="about-us.php">About Us</a></li>
-                    <li><a href="#">Services</a></li>
+                    <li><a href="service.php">Services</a></li>
                     <li><a href="franchise.php">Franchise system</a></li>
                     <li><a href="#">How It Works</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
                 </ul>
 
                 <ul class="footer-links">
                     <li><a href="help.php">FAQ</a></li>
-                    <li><a href="#">Offers</a></li>
-                    <li><a href="#">Requirements</a></li>
+                    <li><a href="privacy.php">Privacy Policy</a></li>
                     <li><a href="#">Terms of use</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
