@@ -548,18 +548,21 @@
 <script type="text/javascript" src="scripts/tooltips.min.js"></script>
 <script type="text/javascript" src="scripts/custom.js"></script>
 <script>
-    var pageUrl = window.location.href ;
-    $(function () {
 
+    $(document).ready(function () {
+        var pageUrl = window.location.href ;
         $('.toggle-wrap').each(function () {
             $(this).find(".trigger").toggleClass('active', this.id === pageUrl.substring(pageUrl.lastIndexOf('#') + 1));
+            if (this.id === pageUrl.substring(pageUrl.lastIndexOf('#') + 1)){
+            $(this).find(".toggle-container").css("display" , "block");
+        }
         });
         // alert(pageUrl.substring(pageUrl.lastIndexOf('#') + 1));
 
     });
     $(document).ready(function(){
         $('html,body').animate({
-            scrollTop: $(window.location.hash).offset().top-80
+            scrollTop: $(window.location.hash).offset().top - 80
         }, 900, 'swing');
     });
 

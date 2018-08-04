@@ -28,7 +28,7 @@
                             <li><a href="discover.php">Discover</a></li>
                             <li><a href="#">Partners</a>
                                 <ul>
-                                    <li><a href="#">Record</a></li>
+                                    <li><a href="partner-help.php">Help</a></li>
                                     <li><a href="#">Requirements</a></li>
                                 </ul>
                             </li>

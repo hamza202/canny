@@ -401,9 +401,10 @@ span.green-dot{
 .text-italic{
     font-style: italic;
 }
-.toggle-wrap span.active + div.toggle-container{
-    display: block !important;
-}
+/*.toggle-wrap span.active + div.toggle-container{*/
+    /*display: block*/
+/*}*/
+
 .r-form-error{
     font-size: 14px;
     padding-top: 9px;
