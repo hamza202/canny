@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-5 col-sm-6">
                 <div id="logo">
-                    <a href="index.html"><img src="images/logo.png" alt=""><span>CANNY</span></a>
+                    <a href="index.php"><img src="images/logo.png" alt=""><span>CANNY</span></a>
                 </div>
                 <br><br>
                 <p>Offers you all the necessary transportation, general maintenance and bookings
@@ -24,8 +24,8 @@
                 <ul class="footer-links">
                     <li><a href="help.php">FAQ</a></li>
                     <li><a href="privacy.php">Privacy Policy</a></li>
-                    <li><a href="#">Terms of use</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="condition.php">Terms of use</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
                 <div class="clearfix"></div>
                 <ul class="list-unstyled list-inline language-list ">

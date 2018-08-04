@@ -424,6 +424,10 @@ span.green-dot{
     max-width: 150px;
     height: auto;
 }
+span.small-dot{
+    font-size: 22px;
+    top: 0;
+}
 @media (max-width: 991px) {
     .main-search-container {
         height: 500px;
