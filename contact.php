@@ -80,7 +80,7 @@
             <!-- Contact Form -->
             <div class="col-md-8">
 
-                <section id="contact">
+                <section class="mb-5" id="contact">
                     <h4 class="headline margin-bottom-35">Contact Form</h4>
 
                     <div id="contact-message"></div>
@@ -149,7 +149,7 @@
 <script type="text/javascript" src="scripts/jquery-ui.min.js"></script>
 <script type="text/javascript" src="scripts/tooltips.min.js"></script>
 <script type="text/javascript" src="scripts/custom.js"></script>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
 <script type="text/javascript" src="scripts/infobox.min.js"></script>
 <script type="text/javascript" src="scripts/markerclusterer.js"></script>
 <script type="text/javascript" src="scripts/maps.js"></script>

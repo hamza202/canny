@@ -29,10 +29,9 @@
                             <li><a href="#">Partners</a>
                                 <ul>
                                     <li><a href="partner-help.php">Help</a></li>
-                                    <li><a href="#">Requirements</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Service</a></li>
+                            <li><a href="service.php">Service</a></li>
                             <li><a href="help.php">Help</a></li>
                             <li><a href="#">language</a>
                                 <ul>
@@ -44,7 +43,6 @@
                     </nav>
                     <div class="clearfix"></div>
                     <!-- Main Navigation / End -->
-
                 </div>
                 <!-- Left Side Content / End -->
 
@@ -54,14 +52,11 @@
                     <div class="header-widget">
                         <!--<a href="#sign-in-dialog" class="sign-in popup-with-zoom-anim"><i-->
                         <!--class="sl sl-icon-login"></i> Sign In</a>-->
-                        <a href="#" class="button border with-icon">Join As Partner <i
-                                class="sl sl-icon-plus"></i></a>
+                        <a href="reg.php" class="button border with-icon">Join As Partner <i class="sl sl-icon-plus"></i></a>
                     </div>
                 </div>
                 <!-- Right Side Content / End -->
             </div>
-
-
         </div>
     </div>
     <!-- Header / End -->

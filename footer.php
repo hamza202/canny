@@ -18,7 +18,8 @@
                     <li><a href="about-us.php">About Us</a></li>
                     <li><a href="service.php">Services</a></li>
                     <li><a href="franchise.php">Franchise system</a></li>
-                    <li><a href="#">How It Works</a></li>
+                    <li><a href="how-it-work.php">How It Works</a></li>
+                    <li><a href="team-work.php">Team work</a></li>
                 </ul>
 
                 <ul class="footer-links">
@@ -26,6 +27,7 @@
                     <li><a href="privacy.php">Privacy Policy</a></li>
                     <li><a href="condition.php">Terms of use</a></li>
                     <li><a href="contact.php">Contact</a></li>
+
                 </ul>
                 <div class="clearfix"></div>
                 <ul class="list-unstyled list-inline language-list ">
